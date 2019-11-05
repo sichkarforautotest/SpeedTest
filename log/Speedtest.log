@@ -1,0 +1,32 @@
+2019-04-11 17:28:51   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:30:29   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:32:30   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:37:50   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:39:41   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:46:18   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 17:49:52   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 18:55:59   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 18:56:05  ERROR [libs.ActionsWithElements] : Can not work with element
+2019-04-11 18:56:11  ERROR [libs.ActionsWithElements] : Can not work with element
+2019-04-11 18:56:17  ERROR [libs.ActionsWithElements] : Can not work with element
+2019-04-11 18:56:22  ERROR [libs.ActionsWithElements] : Can not work with element
+2019-04-11 18:58:05   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 18:58:06   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:58:08   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:58:10   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:58:11   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:59:38   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 18:59:39   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:59:41   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:59:43   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 18:59:44   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:00:39   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 19:00:41   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:00:42   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:00:44   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:00:45   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:05:25   INFO [pages.TutorialPages] : Text on header are visible
+2019-04-11 19:05:28   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:05:29   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:05:33   INFO [libs.ActionsWithElements] : Element was clicked
+2019-04-11 19:05:35   INFO [libs.ActionsWithElements] : Element was clicked
