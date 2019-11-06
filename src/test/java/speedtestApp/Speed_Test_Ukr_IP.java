@@ -7,7 +7,7 @@ public class Speed_Test_Ukr_IP extends ParentTest {
 
     @Test
     public void checkSpeedInternet(){
-        tutorialPages.checkHeaderText();
+        speedtestPage.checkHeaderText();
         speedtestPage.clickOnButtonGo();
         speedtestPage.printResultTest();
     }

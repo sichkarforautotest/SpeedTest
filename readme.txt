@@ -1,4 +1,4 @@
-Install Java 8, Maven, appium-client, Apache Log4j.
+Install Java 8, Maven, appium-client.
 Open Project in IntelliJ Idea as Maven project.
 
 

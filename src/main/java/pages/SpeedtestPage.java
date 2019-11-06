@@ -3,6 +3,9 @@ package pages;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
+
+import javax.swing.*;
 
 
 public class SpeedtestPage extends ParentPage {
@@ -25,10 +28,21 @@ public class SpeedtestPage extends ParentPage {
     @FindBy(xpath = "//android.view.View[6]/android.view.View/android.widget.TextView[2]")
     private MobileElement Loss;
 
+    @FindBy(id = "org.zwanoo.android.speedtest:id/ookla_top_bar_logo_text")
+    private MobileElement headerLogo;
+
     public SpeedtestPage(AppiumDriver driver) {
         super(driver);
     }
 
+    public void checkHeaderText() {
+        try {
+            Assert.assertEquals("SPEEDTEST", headerLogo.getText());
+            logger.info("Text on header are visible");
+        }catch (Exception e){
+            logger.error(false);
+        }
+    }
 
     public  void clickOnButtonGo(){
         actionsWithElements.waitForElementPresent(buttonGo,"Button not visible", 15);

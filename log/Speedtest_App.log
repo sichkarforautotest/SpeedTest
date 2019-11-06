@@ -78,3 +78,8 @@
 2019-05-11 16:05:56   INFO [libs.ActionsWithElements] : Element was clicked
 2019-05-11 16:57:01   INFO [pages.TutorialPages] : Text on header are visible
 2019-05-11 16:57:04   INFO [libs.ActionsWithElements] : Element was clicked
+2019-06-11 09:39:14  ERROR [pages.SpeedtestPage] : false
+2019-06-11 09:39:20   INFO [libs.ActionsWithElements] : Element was clicked
+2019-06-11 09:41:28  ERROR [pages.SpeedtestPage] : false
+2019-06-11 09:42:27   INFO [pages.SpeedtestPage] : Text on header are visible
+2019-06-11 09:42:36   INFO [libs.ActionsWithElements] : Element was clicked
